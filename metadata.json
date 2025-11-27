@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Crypto TA Assistant",
+  "description": "An AI-powered assistant that analyzes Bitcoin market conditions based on user-provided chart snapshots and data, suggesting potential trading scenarios and biases for educational purposes.",
+  "requestFramePermissions": []
+}
